@@ -6,6 +6,14 @@
  </a>
   
 
+
+</p>
+
+
+<p align="center" dir="auto">
+ <a href="#" alt="Reza Mansouri's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=RezaMansouri70&theme=tokyonight&show_icons=true" style="max-width: 100%;">
+ </a>
 </p>
 
 <p align="center"> 
@@ -27,3 +35,4 @@
 
 </br>
 
+	
